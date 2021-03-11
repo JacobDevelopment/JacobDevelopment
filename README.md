@@ -4,7 +4,7 @@ My current projects that I actively commit to:
 
 Name | Description
 ------|------------
-DiscordBot | A discord bot written in Java utilizing the [JDA](https://www.github.com) library, among many others.
+[DiscordBot](https://github.com/JacobDevelopment/DiscordBot) | A discord bot written in Java utilizing the [JDA](https://www.github.com) library, among many others.
 Devver | Another discord bot that helps maintain my server based on DiscordBot.
 Portfolio | My custom portfolio that houses all of my projects and other miscellaneous things you won't find here.
 
