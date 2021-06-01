@@ -1,6 +1,6 @@
 Hello, welcome to my profile. I'm a full-time student majoring in CS focused on full-stack development. 
 
-My current projects that I actively commit to:
+My current projects that I've been working on:
 
 Name | Description
 ------|------------
